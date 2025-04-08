@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Bhavana/College/Coursera/C++Course/Coding_for_Everyone_Course/project1",
-      "program": "c:/Bhavana/College/Coursera/C++Course/Coding_for_Everyone_Course/project1/build/Debug/outDebug",
+      "cwd": "c:/Bhavana/College/Coursera/C++Course/Coding_for_Everyone/Module1",
+      "program": "c:/Bhavana/College/Coursera/C++Course/Coding_for_Everyone/Module1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
