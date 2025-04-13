@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,10 +9,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Bhavana/College/Coursera/C++Course/Coding_for_Everyone/Module1",
-      "program": "c:/Bhavana/College/Coursera/C++Course/Coding_for_Everyone/Module1/build/Debug/outDebug",
+      "cwd": "c:/Bhavana/College/C++learning",
+      "program": "c:/Bhavana/College/C++learning/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:\\Bhavana\\College\\C++learning\\msys64\\usr\\bin\\gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",

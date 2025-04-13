@@ -1,0 +1,75 @@
+************************************* Invoked: Mon Jan 27 11:17:24 2025
+[0] Arguments: C:\Users\Kannan\Downloads\msys2-x86_64-20241208.exe
+[5] Operations sanity check succeeded.
+[12] Using metadata cache from "C:/Users/Kannan/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[12] Found 0 cached items.
+[12] Language: en-US
+[266] Loaded control script ":/metadata/installer-config/control_js.js"
+[266] Using control script: ":/metadata/installer-config/control_js.js"
+[1963] Fetching latest update information...
+[1973] Loading component scripts...
+[2786] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[6329] backup  operation: Mkdir
+[6329] 	- arguments: C:/msys64
+[6330] Done
+[6330] perform  operation: Mkdir
+[6330] 	- arguments: C:/msys64
+[6330] Done
+[6330] Preparing the installation...
+[6330] Install size: 1 components
+[6335] Preparing to unpack components...
+[6336] backup com.msys2.root concurrent operation: Extract
+[6336] 	- arguments: installer://com.msys2.root/20241208msys64.7z, C:/msys64
+[6336] Started
+[6832] Unpacking components...
+[6832] perform com.msys2.root concurrent operation: Extract
+[6832] 	- arguments: installer://com.msys2.root/20241208msys64.7z, C:/msys64
+[6832] Started
+[50339] Installing component MSYS2
+[50342] backup com.msys2.root operation: CreateShortcut
+[50342] 	- arguments: C:/msys64/mingw64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MINGW64.lnk, iconPath=C:/msys64/mingw64.exe
+[50343] Done
+[50343] perform com.msys2.root operation: CreateShortcut
+[50343] 	- arguments: C:/msys64/mingw64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MINGW64.lnk
+[50446] Done
+[50446] backup com.msys2.root operation: CreateShortcut
+[50446] 	- arguments: C:/msys64/ucrt64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 UCRT64.lnk, iconPath=C:/msys64/ucrt64.exe
+[50446] Done
+[50447] perform com.msys2.root operation: CreateShortcut
+[50447] 	- arguments: C:/msys64/ucrt64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 UCRT64.lnk
+[50492] Done
+[50492] backup com.msys2.root operation: CreateShortcut
+[50492] 	- arguments: C:/msys64/clang64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANG64.lnk, iconPath=C:/msys64/clang64.exe
+[50493] Done
+[50493] perform com.msys2.root operation: CreateShortcut
+[50493] 	- arguments: C:/msys64/clang64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANG64.lnk
+[50535] Done
+[50536] backup com.msys2.root operation: CreateShortcut
+[50536] 	- arguments: C:/msys64/clangarm64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANGARM64.lnk, iconPath=C:/msys64/clangarm64.exe
+[50536] Done
+[50536] perform com.msys2.root operation: CreateShortcut
+[50536] 	- arguments: C:/msys64/clangarm64.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANGARM64.lnk
+[50575] Done
+[50575] backup com.msys2.root operation: CreateShortcut
+[50575] 	- arguments: C:/msys64/msys2.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MSYS.lnk, iconPath=C:/msys64/msys2.exe
+[50576] Done
+[50576] perform com.msys2.root operation: CreateShortcut
+[50576] 	- arguments: C:/msys64/msys2.exe, C:\Users\Kannan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MSYS.lnk
+[50626] Done
+[50626] backup com.msys2.root operation: Execute
+[50627] 	- arguments: C:/msys64\usr\bin\bash.exe, --login, -c, exit
+[50627] Done
+[50627] perform com.msys2.root operation: Execute
+[50628] 	- arguments: C:/msys64\usr\bin\bash.exe, --login, -c, exit
+[50711] C:/msys64\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[52084] \x1B[H\x1B[2J\x1B[3J
+[52127] Done
+[52139] Writing maintenance tool: "C:/msys64/uninstall.exe.new"
+[52139] Writing maintenance tool.
+[52275] Wrote permissions for maintenance tool.
+[53375] Maintenance tool hard restart: false.
+[53379] Installation finished!
+[73377] starting "C:/msys64/ucrt64.exe" QList()
