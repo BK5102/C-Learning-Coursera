@@ -1,7 +1,8 @@
+/* program that calculates the sine of a value between 0 and 1 (non inclusive)*/
+
 #include <stdio.h>
 #include <iostream>
 #include <cmath>
-
 
 int main(){
     double value;
